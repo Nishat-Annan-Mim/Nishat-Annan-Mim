@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
 
 I am an Aspiring Software Engineer passionate about building scalable, efficient, and user-friendly web applications. I enjoy turning ideas into real-world projects using modern web technologies.
 
