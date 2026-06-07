@@ -20,6 +20,7 @@ I am a focused Full Stack Developer who enjoys building things that actually wor
 - 🏆 300+ competitive programming problems solved
 - 🔬 Undergraduate researcher — VQA for long videos
 
+
 <br/>
 
 <!-- ========== PROFILE VIEWS ========== -->
@@ -89,7 +90,7 @@ I am a focused Full Stack Developer who enjoys building things that actually wor
 </a>
 &nbsp;
 <a href="mailto:nishatannanmim@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=Gmail&message=nishatannanmim%40gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Gmail: nishatannanmim@gmail.com" src="./gmail-badge.svg"/>
 </a>
 
 </div>
@@ -101,7 +102,6 @@ I am a focused Full Stack Developer who enjoys building things that actually wor
 
 - 🎬 **Spirited Away** is my all-time favorite anime movie
 - 🎨 I enjoy drawing and exploring animation as a creative hobby alongside coding
-- 🇰🇷 Currently learning Korean language as a new challenge
 
 ---
 
