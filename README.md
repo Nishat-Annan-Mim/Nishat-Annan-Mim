@@ -6,26 +6,24 @@
 <!-- ========== TYPING ANIMATION ========== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=a6e22e&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+(MERN+Stack);300%2B+Competitive+Programming+Problems;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- ========== PROFILE VIEWS ========== -->
-<img src="https://komarev.com/ghpvc/?username=Nishat-Annan-Mim&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-
 </div>
 
 ---
 
 <!-- ========== ABOUT + CODING GIF ========== -->
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"/>
 
 ### 👩‍💻 About Me
 
-- 🎓 **CS Undergraduate** at BRAC University (CGPA: 3.84/4.00)
-- 💼 **Full Stack Developer** — MERN Stack
-- 🔭 Currently building scalable full-stack web applications
-- 🌱 Learning advanced backend, auth systems & app architecture
-- 🏆 **300+** competitive programming problems solved
+I am a focused Full Stack Developer who enjoys building things that actually work and look good doing it. I want to keep growing, keep shipping, and keep solving problems that matter. I can turn ideas into real products — from a blank page to a deployed app.
+
+- 🏆 300+ competitive programming problems solved
 - 🔬 Undergraduate researcher — VQA for long videos
-- 🏅 Top 20 — BUP Hackathon
-- 🌏 Learning Korean 🇰🇷
+
+<br/>
+
+<!-- ========== PROFILE VIEWS ========== -->
+<img src="https://komarev.com/ghpvc/?username=Nishat-Annan-Mim&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 
 <br clear="right"/>
 
@@ -37,12 +35,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Nishat-Annan-Mim&theme=dark&background=0d1117&ring=a6e22e&fire=a6e22e&currStreakLabel=a6e22e&sideLabels=a6e22e&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=30363d" alt="GitHub Streak" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nishat-Annan-Mim&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=a6e22e&icon_color=a6e22e&border_color=30363d&count_private=true" alt="GitHub Stats" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Annan-Mim&layout=compact&theme=github_dark&bg_color=0d1117&title_color=a6e22e&border_color=30363d" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -97,11 +89,7 @@
 </a>
 &nbsp;
 <a href="mailto:nishatannanmim@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-your--email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Nishat-Annan-Mim" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Nishat--Annan--Mim-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Gmail&message=nishatannanmim%40gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -113,8 +101,7 @@
 
 - 🎬 **Spirited Away** is my all-time favorite anime movie
 - 🎨 I enjoy drawing and exploring animation as a creative hobby alongside coding
-- 🇰🇷 Currently learning Korean as a new challenge
-- 🏆 I thrive in hackathons and love turning ideas into working products overnight
+- 🇰🇷 Currently learning Korean language as a new challenge
 
 ---
 
